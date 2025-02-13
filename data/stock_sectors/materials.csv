@@ -1,267 +1,266 @@
 ,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
-0,LIN,Linde plc,216.68B,-1.22%,1668297,33.01B
-1,BHP,BHP Group Limited,128.60B,-0.97%,1944300,56.03B
-2,RIO,Rio Tinto Group,105.93B,-0.39%,2236425,54.18B
-3,SHW,The Sherwin-Williams Company,90.50B,-1.27%,761404,23.10B
-4,SCCO,Southern Copper Corporation,76.45B,2.23%,1160304,10.94B
-5,ECL,Ecolab Inc.,70.05B,-1.05%,812486,15.67B
-6,CRH,CRH plc,69.94B,-1.76%,4706278,35.39B
-7,APD,"Air Products and Chemicals, Inc.",69.07B,-5.58%,2363753,12.03B
-8,FCX,Freeport-McMoRan Inc.,54.92B,3.10%,21531864,25.46B
-9,NEM,Newmont Corporation,50.53B,-0.08%,6560816,16.99B
-10,AEM,Agnico Eagle Mines Limited,49.25B,-0.46%,1886998,7.82B
-11,CTVA,"Corteva, Inc.",42.74B,-0.05%,3896566,16.91B
-12,VALE,Vale S.A.,40.50B,-1.46%,34184940,38.77B
-13,VMC,Vulcan Materials Company,36.04B,-1.55%,359636,7.40B
-14,MLM,"Martin Marietta Materials, Inc.",32.92B,-1.25%,328506,6.51B
-15,DD,"DuPont de Nemours, Inc.",31.67B,-1.91%,1368689,12.19B
-16,NUE,Nucor Corporation,30.59B,-1.44%,3225213,30.73B
-17,WPM,Wheaton Precious Metals Corp.,29.96B,-1.03%,1139825,1.22B
-18,GOLD,Barrick Gold Corporation,29.70B,-0.81%,28142819,12.34B
-19,DOW,Dow Inc.,27.15B,-0.49%,5078245,42.96B
-20,FNV,Franco-Nevada Corporation,27.14B,-0.27%,451247,1.09B
-21,PPG,"PPG Industries, Inc.",26.61B,-0.91%,1533546,15.85B
-22,LYB,LyondellBasell Industries N.V.,24.85B,0.32%,1797441,40.73B
-23,NTR,Nutrien Ltd.,24.81B,-0.99%,1925755,25.56B
-24,MT,ArcelorMittal S.A.,22.22B,-1.73%,3148817,62.44B
-25,TECK,Teck Resources Limited,21.98B,1.08%,4225006,12.33B
-26,IFF,International Flavors & Fragrances Inc.,21.56B,-1.58%,889337,11.42B
-27,STLD,"Steel Dynamics, Inc.",19.29B,-1.74%,1407114,17.54B
-28,GFI,Gold Fields Limited,16.97B,0.54%,3233222,4.36B
-29,AU,AngloGold Ashanti plc,15.83B,-0.22%,1555095,5.30B
-30,RPM,RPM International Inc.,15.63B,-1.59%,490854,7.35B
-31,RS,"Reliance, Inc.",15.32B,-0.72%,240777,14.05B
-32,CF,"CF Industries Holdings, Inc.",14.63B,-0.31%,2178951,5.98B
-33,KGC,Kinross Gold Corporation,14.57B,-0.17%,15572491,4.85B
-34,JHX,James Hardie Industries plc,14.53B,-1.49%,45983,3.94B
-35,WLK,Westlake Corporation,14.35B,-1.27%,267880,12.13B
-36,SUZ,Suzano S.A.,12.76B,-2.28%,1577454,8.01B
-37,PKX,POSCO Holdings Inc.,12.37B,-3.58%,244024,49.20B
-38,EMN,Eastman Chemical Company,11.43B,-2.01%,915512,9.38B
-39,SQM,Sociedad Química y Minera de Chile S.A.,11.03B,0.76%,888177,4.77B
-40,CX,"CEMEX, S.A.B. de C.V.",9.71B,-2.36%,7809195,16.20B
-41,RGLD,"Royal Gold, Inc.",9.50B,-0.32%,372747,662.59M
-42,AA,Alcoa Corporation,9.33B,0.34%,4562833,11.90B
-43,AGI,Alamos Gold Inc.,9.30B,1.53%,1711884,1.23B
-44,SUM,"Summit Materials, Inc.",9.22B,-0.11%,3426603,3.75B
-45,ALB,Albemarle Corporation,9.09B,-1.90%,2281148,6.50B
-46,PAAS,Pan American Silver Corp.,8.93B,-1.01%,2653399,2.67B
-47,MOS,The Mosaic Company,8.53B,1.17%,3797396,11.46B
-48,EXP,Eagle Materials Inc.,8.52B,-1.55%,257064,2.27B
-49,X,United States Steel Corporation,8.33B,-4.13%,31188872,15.64B
-50,AXTA,Axalta Coating Systems Ltd.,8.12B,-2.18%,1617225,5.28B
-51,ICL,ICL Group Ltd,7.64B,0.34%,596994,6.93B
-52,HMY,Harmony Gold Mining Company Limited,7.52B,-1.07%,9061509,3.36B
-53,CE,Celanese Corporation,7.44B,-2.95%,945410,10.48B
-54,UFPI,"UFP Industries, Inc.",7.02B,-1.12%,228381,6.71B
-55,SSD,"Simpson Manufacturing Co., Inc.",6.97B,-1.37%,146447,2.22B
-56,WFG,West Fraser Timber Co. Ltd.,6.83B,-0.60%,126843,6.28B
-57,ESI,Element Solutions Inc,6.15B,-1.01%,928538,2.41B
-58,TX,Ternium S.A.,5.88B,-1.03%,173707,18.70B
-59,KNF,Knife River Corporation,5.77B,-2.39%,353429,2.89B
-60,GGB,Gerdau S.A.,5.76B,-3.39%,7200765,11.92B
-61,CMC,Commercial Metals Company,5.64B,-1.02%,1276822,7.83B
-62,ALTM,Arcadium Lithium plc,5.44B,-0.52%,8335069,900.60M
-63,BCPC,Balchem Corporation,5.21B,-2.48%,131742,942.38M
-64,CLF,Cleveland-Cliffs Inc.,4.96B,-5.53%,17674623,19.97B
-65,NEU,NewMarket Corporation,4.92B,-0.95%,29729,2.79B
-66,BCC,Boise Cascade Company,4.73B,-1.46%,180570,6.80B
-67,CBT,Cabot Corporation,4.67B,-1.90%,404325,3.99B
-68,FMC,FMC Corporation,4.31B,-3.37%,7824785,4.25B
-69,SIM,"Grupo Simec, S.A.B. de C.V.",4.04B,-0.11%,512,1.71B
-70,MP,MP Materials Corp.,3.91B,-0.74%,3558694,184.07M
-71,SMG,The Scotts Miracle-Gro Company,3.87B,-1.31%,747241,3.56B
-72,AVNT,Avient Corporation,3.85B,-1.22%,453181,3.21B
-73,HL,Hecla Mining Company,3.69B,-2.17%,13230696,840.96M
-74,OR,Osisko Gold Royalties Ltd,3.69B,0.71%,431226,183.59M
-75,HBM,Hudbay Minerals Inc.,3.67B,3.68%,8221865,2.04B
-76,IAG,IAMGOLD Corporation,3.65B,-0.31%,11280346,1.46B
-77,TGLS,Tecnoglass Inc.,3.64B,-0.55%,182086,845.21M
-78,MEOH,Methanex Corporation,3.40B,-0.59%,424955,3.72B
-79,BTG,B2Gold Corp.,3.32B,1.61%,32827842,1.91B
-80,BVN,Compañía de Minas Buenaventura S.A.A.,3.31B,-1.10%,380738,1.11B
-81,FUL,H.B. Fuller Company,3.31B,-1.14%,410477,3.57B
-82,TFPM,Triple Flag Precious Metals Corp.,3.29B,-2.38%,254382,246.52M
-83,OLN,Olin Corporation,3.27B,-0.84%,1565376,6.54B
-84,SXT,Sensient Technologies Corporation,3.22B,-1.93%,101173,1.53B
-85,WDFC,WD-40 Company,3.21B,-1.53%,72122,603.64M
-86,SLVM,Sylvamo Corporation,3.16B,-1.95%,183935,3.77B
-87,USLM,"United States Lime & Minerals, Inc.",3.04B,-4.20%,112672,317.72M
-88,EQX,Equinox Gold Corp.,3.01B,-0.90%,8064415,1.24B
-89,ASH,Ashland Inc.,2.99B,-2.59%,595366,2.05B
-90,HUN,Huntsman Corporation,2.94B,-1.28%,2777146,5.99B
-91,EGO,Eldorado Gold Corporation,2.83B,-0.50%,2183643,1.19B
-92,SBSW,Sibanye Stillwater Limited,2.81B,-1.50%,7851902,5.93B
-93,IOSP,Innospec Inc.,2.77B,-1.65%,70554,1.87B
-94,CDE,"Coeur Mining, Inc.",2.76B,-0.43%,19092886,1.01B
-95,HCC,"Warrior Met Coal, Inc.",2.74B,-1.54%,673869,1.59B
-96,CC,The Chemours Company,2.73B,-2.30%,1010402,5.75B
-97,SSL,Sasol Limited,2.71B,-4.55%,1269159,15.07B
-98,KWR,Quaker Chemical Corporation,2.41B,-2.13%,97106,1.86B
-99,NGD,New Gold Inc.,2.38B,0.33%,18908051,861.50M
-100,HWKN,"Hawkins, Inc.",2.36B,-2.00%,144346,952.13M
-101,MTX,Minerals Technologies Inc.,2.36B,-3.06%,222598,2.12B
-102,AMR,"Alpha Metallurgical Resources, Inc.",2.33B,-0.41%,252292,3.30B
-103,ORLA,Orla Mining Ltd.,2.32B,1.83%,1076542,314.10M
-104,MTRN,Materion Corporation,2.06B,-2.66%,49542,1.67B
-105,SID,Companhia Siderúrgica Nacional,2.05B,-3.09%,1055111,8.02B
-106,SAND,Sandstorm Gold Ltd.,1.86B,-0.95%,4889052,173.38M
-107,BAK,Braskem S.A.,1.82B,-2.41%,999291,13.76B
-108,SSRM,SSR Mining Inc.,1.82B,-2.41%,2652177,1.10B
-109,PRM,"Perimeter Solutions, Inc.",1.77B,0.33%,696094,534.19M
-110,CENX,Century Aluminum Company,1.73B,-0.37%,1021134,2.10B
-111,AG,First Majestic Silver Corp.,1.69B,-3.10%,19586143,525.21M
-112,SILV,SilverCrest Metals Inc.,1.64B,0.09%,2299231,278.08M
-113,MAG,MAG Silver Corp.,1.63B,-1.99%,745767,-
-114,FSM,Fortuna Mining Corp.,1.62B,-2.63%,14397679,1.03B
-115,TROX,Tronox Holdings plc,1.57B,-2.94%,653402,3.08B
-116,NGVT,Ingevity Corporation,1.55B,-2.63%,132866,1.48B
-117,CGAU,Centerra Gold Inc.,1.43B,0.74%,608973,1.25B
-118,WS,"Worthington Steel, Inc.",1.42B,-0.92%,226883,3.29B
-119,LOMA,Loma Negra Compañía Industrial Argentina Sociedad Anónima,1.41B,-2.38%,417369,265.54M
-120,CSTM,Constellium SE,1.40B,-2.54%,1456411,7.56B
-121,SCL,Stepan Company,1.38B,-2.23%,83097,2.19B
-122,ERO,Ero Copper Corp.,1.38B,1.44%,718978,464.13M
-123,SGML,Sigma Lithium Corporation,1.25B,0.18%,307131,142.75M
-124,SKE,Skeena Resources Limited,1.21B,1.90%,314018,-
-125,SA,Seabridge Gold Inc.,1.18B,-0.31%,514424,-
-126,KALU,Kaiser Aluminum Corporation,1.13B,-1.09%,118094,2.98B
-127,KRO,"Kronos Worldwide, Inc.",1.09B,-3.73%,104787,1.86B
-128,NG,NovaGold Resources Inc.,1.06B,-4.80%,2623807,-
-129,EXK,Endeavour Silver Corp.,1.03B,-3.91%,8224582,225.93M
-130,DRD,DRDGOLD Limited,957.12M,-0.71%,233685,341.81M
-131,ECVT,Ecovyst Inc.,914.60M,-1.75%,909347,695.34M
-132,ASTL,Algoma Steel Group Inc.,868.80M,-3.03%,409871,1.84B
-133,IPX,IperionX Limited,854.60M,-2.96%,62562,-
-134,WLKP,Westlake Chemical Partners LP,849.95M,-1.26%,54991,1.14B
-135,PPTA,Perpetua Resources Corp.,844.81M,-0.74%,505603,-
-136,UAN,"CVR Partners, LP",840.29M,-1.04%,40621,527.39M
-137,SXC,"SunCoke Energy, Inc.",801.34M,-0.94%,808080,1.94B
-138,OEC,Orion S.A.,787.30M,-2.36%,428200,1.91B
-139,ASIX,AdvanSix Inc.,783.49M,-3.24%,66603,1.57B
-140,NEXA,Nexa Resources S.A.,781.39M,-3.11%,25492,2.66B
-141,GSM,Ferroglobe PLC,715.84M,-1.55%,690297,1.65B
-142,IE,Ivanhoe Electric Inc.,711.90M,-0.51%,569300,3.24M
-143,REX,REX American Resources Corporation,709.54M,-4.18%,111182,671.88M
-144,SVM,Silvercorp Metals Inc.,698.94M,-2.11%,5576267,241.36M
-145,ARMN,Aris Mining Corporation,682.71M,-0.75%,420039,484.51M
-146,LAC,Lithium Americas Corp.,657.33M,-1.63%,3104591,-
-147,MTUS,Metallus Inc.,638.69M,-2.08%,171318,1.17B
-148,TGB,Taseko Mines Limited,638.12M,4.50%,5663812,439.68M
-149,VZLA,Vizsla Silver Corp.,628.65M,-0.90%,1625981,-
-150,ODC,Oil-Dri Corporation of America,622.17M,-0.84%,24199,454.09M
-151,TMC,TMC the metals company Inc.,615.31M,-1.08%,1982337,-
-152,SLSR,Solaris Resources Inc.,610.39M,-,-,-
-153,KOP,Koppers Holdings Inc.,592.06M,-1.72%,70420,2.13B
-154,LXU,"LSB Industries, Inc.",581.56M,-,269213,520.11M
-155,VHI,"Valhi, Inc.",561.09M,-1.18%,5891,2.08B
-156,CRML,Critical Metals Corp.,539.74M,3.13%,239413,117.66K
-157,CLW,Clearwater Paper Corporation,512.94M,-2.73%,129539,2.21B
-158,METC,"Ramaco Resources, Inc.",506.80M,-0.93%,266470,698.13M
-159,LVRO,Lavoro Limited,504.21M,-10.02%,347,1.67B
-160,METCB,"Ramaco Resources, Inc.",502.33M,-1.19%,9578,698.13M
-161,CMP,"Compass Minerals International, Inc.",499.66M,2.38%,571002,1.12B
-162,LZM,Lifezone Metals Limited,493.42M,-0.65%,40128,1.02M
-163,CPAC,Cementos Pacasmayo S.A.A.,489.37M,0.72%,275,527.80M
-164,MATV,"Mativ Holdings, Inc.",483.59M,-5.62%,390429,1.97B
-165,RYAM,Rayonier Advanced Materials Inc.,480.53M,-2.54%,286522,1.63B
-166,KBSX,FST Corp.,461.33M,-0.79%,5802,33.94M
-167,CNL,Collective Mining Ltd.,450.91M,5.51%,19025,-
-168,ASPI,ASP Isotopes Inc.,441.90M,5.08%,2824805,3.38M
-169,MERC,Mercer International Inc.,438.53M,-1.35%,200279,2.03B
-170,GEVO,"Gevo, Inc.",432.32M,-3.11%,4966980,15.59M
-171,GPRE,Green Plains Inc.,426.70M,-20.14%,7035692,2.46B
-172,LAR,Lithium Argentina AG,403.74M,-2.31%,915304,-
-173,NAK,Northern Dynasty Minerals Ltd.,398.09M,-,3434694,-
-174,MUX,McEwen Mining Inc.,390.60M,-14.45%,10196921,199.63M
-175,ZEUS,"Olympic Steel, Inc.",378.73M,-2.91%,50275,2.01B
-176,BIOX,Bioceres Crop Solutions Corp.,348.83M,-0.54%,674727,441.27M
-177,RDUS,"Radius Recycling, Inc.",346.03M,-1.99%,162744,2.72B
-178,NFGC,New Found Gold Corp.,341.73M,2.37%,873900,-
-179,USAS,Americas Gold and Silver Corporation,327.41M,-,1101800,97.12M
-180,MSB,Mesabi Trust,323.15M,-1.56%,31326,26.79M
-181,NMG,Nouveau Monde Graphite Inc.,316.89M,1.46%,54371,-
-182,IPI,"Intrepid Potash, Inc.",310.00M,-1.64%,142320,206.36M
-183,GAU,Galiano Gold Inc.,301.63M,-,547600,166.79M
-184,MTA,Metalla Royalty & Streaming Ltd.,296.38M,0.93%,332593,5.05M
-185,DC,Dakota Gold Corp.,290.85M,22.71%,1583862,-
-186,SLI,Standard Lithium Ltd.,274.94M,-1.96%,1024900,-
-187,NEWP,New Pacific Metals Corp.,258.30M,-5.65%,266542,-
-188,IAUX,i-80 Gold Corp.,257.43M,-2.56%,3570792,52.94M
-189,HDSN,"Hudson Technologies, Inc.",250.85M,-1.68%,260171,247.33M
-190,IONR,ioneer Ltd,250.82M,-2.40%,10723,-
-191,GROY,Gold Royalty Corp.,248.89M,-1.34%,1077700,7.76M
-192,WRN,Western Copper and Gold Corporation,218.74M,0.92%,239069,-
-193,FF,FutureFuel Corp.,216.63M,-1.98%,153366,273.84M
-194,LWLG,"Lightwave Logic, Inc.",212.93M,-2.79%,433820,113.19K
-195,EMX,EMX Royalty Corporation,206.03M,1.36%,560367,26.82M
-196,TMQ,Trilogy Metals Inc.,204.57M,-2.29%,140248,-
-197,ODV,Osisko Development Corp.,201.26M,-3.27%,279874,8.49M
-198,UAMY,United States Antimony Corporation,199.53M,-1.08%,1111258,10.22M
-199,SMID,Smith-Midland Corporation,193.69M,-2.68%,7801,76.37M
-200,CMCL,Caledonia Mining Corporation Plc,190.03M,-4.26%,41313,165.35M
-201,ASM,Avino Silver & Gold Mines Ltd.,187.38M,0.75%,1346604,54.33M
-202,ITRG,Integra Resources Corp.,187.19M,-0.88%,228900,-
-203,IDR,"Idaho Strategic Resources, Inc.",184.70M,-0.66%,160200,21.96M
-204,PLL,Piedmont Lithium Inc.,178.63M,0.97%,227988,46.98M
-205,AVD,American Vanguard Corporation,158.62M,0.18%,169953,553.84M
-206,TSE,Trinseo PLC,158.60M,-6.08%,156327,3.53B
-207,GLDG,GoldMining Inc.,158.51M,-1.56%,384538,-
-208,IZTC,"Invizyne Technologies, Inc.",153.13M,-8.22%,8433,-700.00
-209,GRO,Brazil Potash Corp.,142.62M,-4.62%,129442,-
-210,LGO,Largo Inc.,136.11M,2.83%,255492,144.82M
-211,PLG,Platinum Group Metals Ltd.,129.86M,-,386370,-
-212,CTGO,"Contango Ore, Inc.",127.18M,0.19%,89682,-
-213,USGO,U.S. GoldMining Inc.,125.57M,0.70%,46755,-
-214,ORGN,"Origin Materials, Inc.",123.58M,-4.57%,1492291,35.12M
-215,CMT,"Core Molding Technologies, Inc.",121.28M,-3.04%,33700,313.66M
-216,VOXR,Vox Royalty Corp.,119.07M,-4.80%,136108,11.15M
-217,FRD,"Friedman Industries, Incorporated",118.08M,-0.18%,7400,447.62M
-218,ALTO,"Alto Ingredients, Inc.",114.20M,-5.10%,616783,1.00B
-219,ACNT,Ascent Industries Co.,112.54M,-2.00%,53983,178.42M
-220,USAU,U.S. Gold Corp.,109.31M,-1.78%,223234,-
-221,ABAT,American Battery Technology Company,106.76M,-2.96%,1620171,545.46K
-222,NTIC,Northern Technologies International Corporation,106.73M,-4.33%,34317,86.22M
-223,NB,NioCorp Developments Ltd.,106.71M,0.40%,410448,-
-224,THM,International Tower Hill Mines Ltd.,101.90M,-1.96%,83600,-
-225,HLP,Hongli Group Inc.,92.53M,-2.33%,445,14.05M
-226,TRX,TRX Gold Corporation,90.18M,-1.58%,301970,44.28M
-227,ATLX,Atlas Lithium Corporation,83.09M,-5.48%,146923,543.66K
-228,LODE,Comstock Inc.,81.57M,8.73%,5883114,1.86M
-229,VGZ,Vista Gold Corp.,80.06M,-5.80%,649919,-
-230,FSI,"Flexible Solutions International, Inc.",78.22M,-4.56%,69080,38.49M
-231,NVA,Nova Minerals Limited,66.55M,0.16%,22843,-
-232,WWR,"Westwater Resources, Inc.",64.38M,21.18%,2112190,-
-233,HYMC,Hycroft Mining Holding Corporation,63.12M,-1.54%,150506,-
-234,FURY,Fury Gold Mines Limited,60.31M,-0.92%,112437,-
-235,XPL,Solitario Resources Corp.,59.45M,-1.34%,70057,-
-236,LITM,Snow Lake Resources Ltd.,57.20M,-2.77%,3925735,-
-237,AREC,American Resources Corporation,54.58M,14.26%,790992,399.96K
-238,LOOP,"Loop Industries, Inc.",53.81M,1.79%,26673,126.00K
-239,GTI,Graphjet Technology,42.96M,-6.48%,1478242,-
-240,GORO,Gold Resource Corporation,33.27M,16.77%,2674090,73.90M
-241,ELBM,Electra Battery Materials Corporation,26.67M,6.59%,39136,-
-242,NWGL,Nature Wood Group Limited,24.83M,10.29%,14631,21.71M
-243,FEAM,"5E Advanced Materials, Inc.",23.42M,-10.53%,172016,-
-244,PZG,Paramount Gold Nevada Corp.,23.20M,-6.28%,236811,-
-245,HUDI,"Huadi International Group Co., Ltd.",22.28M,0.65%,6249,74.27M
-246,INHD,Inno Holdings Inc.,20.38M,-1.28%,2531,885.50K
-247,AUST,Austin Gold Corp.,18.98M,1.42%,123900,-
-248,ENFY,Enlightify Inc.,18.64M,-3.82%,28368,90.81M
-249,JCTC,Jewett-Cameron Trading Company Ltd.,16.85M,1.27%,5051,46.61M
-250,CAPT,Captivision Inc.,16.17M,-6.80%,4081936,17.39M
-251,SEED,Origin Agritech Limited,14.92M,1.29%,13862,16.52M
-252,ZKIN,"ZK International Group Co., Ltd.",13.17M,-0.39%,53135,108.20M
-253,OMEX,"Odyssey Marine Exploration, Inc.",12.86M,-8.33%,268389,799.14K
-254,NITO,"N2OFF, Inc.",11.98M,-7.13%,947378,175.31K
-255,FMST,Foremost Clean Energy Ltd.,10.87M,-4.23%,44665,-
-256,BHIL,"Benson Hill, Inc.",9.90M,-8.47%,137496,466.73M
-257,RETO,"ReTo Eco-Solutions, Inc.",8.08M,-27.95%,637602,3.84M
-258,GURE,"Gulf Resources, Inc.",7.40M,-1.29%,32411,12.80M
-259,BGLC,BioNexus Gene Lab Corp.,6.92M,1.72%,47467,9.26M
-260,GRFX,Graphex Group Limited,6.33M,4.62%,38935,30.02M
-261,BON,Bon Natural Life Limited,5.30M,-4.51%,4439,23.84M
-262,SNES,"SenesTech, Inc.",3.62M,17.06%,111680,1.65M
-263,ITP,"IT Tech Packaging, Inc.",3.39M,3.03%,216400,79.16M
-264,CRKN,Crown Electrokinetics Corp.,2.58M,-,151031,13.46M
-265,CNEY,CN Energy Group. Inc.,2.00M,0.46%,319499,66.51M
+0,LIN,Linde plc,218.48B,-0.41%,396453,33.01B
+1,BHP,BHP Group Limited,128.20B,1.85%,861598,56.03B
+2,RIO,Rio Tinto Group,105.02B,0.86%,778458,54.18B
+3,SHW,The Sherwin-Williams Company,89.55B,-1.81%,342703,23.10B
+4,SCCO,Southern Copper Corporation,75.71B,3.03%,470831,10.94B
+5,ECL,Ecolab Inc.,74.13B,0.22%,770804,15.74B
+6,CRH,CRH plc,69.90B,-1.80%,4015457,35.39B
+7,APD,"Air Products and Chemicals, Inc.",68.92B,0.09%,12315,12.03B
+8,FCX,Freeport-McMoRan Inc.,54.54B,0.97%,2812745,25.46B
+9,NEM,Newmont Corporation,52.87B,3.14%,4847214,16.99B
+10,AEM,Agnico Eagle Mines Limited,49.44B,0.38%,1461260,7.82B
+11,CTVA,"Corteva, Inc.",42.91B,-1.14%,640379,16.91B
+12,VALE,Vale S.A.,40.86B,0.37%,11973009,38.77B
+13,VMC,Vulcan Materials Company,34.66B,-1.92%,445038,7.40B
+14,DD,"DuPont de Nemours, Inc.",34.07B,0.03%,876526,12.39B
+15,NUE,Nucor Corporation,32.11B,-0.56%,865384,30.73B
+16,MLM,"Martin Marietta Materials, Inc.",31.62B,-2.20%,604604,6.51B
+17,WPM,Wheaton Precious Metals Corp.,30.28B,1.65%,488618,1.22B
+18,GOLD,Barrick Gold Corporation,29.84B,7.38%,21427428,12.92B
+19,FNV,Franco-Nevada Corporation,27.45B,-0.93%,213596,1.09B
+20,DOW,Dow Inc.,26.90B,-1.06%,1747508,42.96B
+21,PPG,"PPG Industries, Inc.",26.39B,-0.87%,397461,15.85B
+22,NTR,Nutrien Ltd.,25.53B,-0.39%,725681,25.56B
+23,LYB,LyondellBasell Industries N.V.,24.61B,-0.72%,493571,40.73B
+24,IFF,International Flavors & Fragrances Inc.,21.73B,-0.35%,181564,11.42B
+25,MT,ArcelorMittal S.A.,21.68B,2.87%,978390,62.44B
+26,TECK,Teck Resources Limited,21.61B,0.69%,846485,12.33B
+27,STLD,"Steel Dynamics, Inc.",20.34B,-0.91%,32817,17.54B
+28,GFI,Gold Fields Limited,17.41B,-2.48%,1722367,4.36B
+29,AU,AngloGold Ashanti plc,16.86B,-0.84%,1111870,5.30B
+30,RS,"Reliance, Inc.",15.61B,-0.83%,93988,14.05B
+31,RPM,RPM International Inc.,15.61B,-0.72%,183087,7.35B
+32,KGC,Kinross Gold Corporation,14.80B,0.04%,10417759,4.85B
+33,CF,"CF Industries Holdings, Inc.",14.29B,-0.83%,1268964,5.98B
+34,WLK,Westlake Corporation,14.22B,-0.85%,211074,12.13B
+35,JHX,James Hardie Industries plc,14.21B,-1.74%,12209,3.94B
+36,SUZ,Suzano S.A.,12.67B,-1.72%,1149043,8.01B
+37,PKX,POSCO Holdings Inc.,11.94B,-1.79%,102607,49.20B
+38,EMN,Eastman Chemical Company,11.63B,-0.74%,197193,9.38B
+39,SQM,Sociedad Química y Minera de Chile S.A.,10.79B,0.83%,341410,4.77B
+40,RGLD,"Royal Gold, Inc.",9.69B,0.78%,178327,662.59M
+41,CX,"CEMEX, S.A.B. de C.V.",9.60B,-2.34%,2545808,16.20B
+42,AA,Alcoa Corporation,9.58B,-0.27%,1513706,11.90B
+43,AGI,Alamos Gold Inc.,9.44B,0.09%,1197102,1.23B
+44,ALB,Albemarle Corporation,9.02B,1.41%,1296605,6.50B
+45,PAAS,Pan American Silver Corp.,8.85B,3.79%,1309287,2.67B
+46,X,United States Steel Corporation,8.81B,-0.33%,1093824,15.64B
+47,MOS,The Mosaic Company,8.27B,-3.38%,2211976,11.46B
+48,EXP,Eagle Materials Inc.,8.18B,-3.85%,306907,2.27B
+49,AXTA,Axalta Coating Systems Ltd.,8.00B,-1.73%,1277019,5.28B
+50,ICL,ICL Group Ltd,7.65B,-1.07%,296206,6.93B
+51,HMY,Harmony Gold Mining Company Limited,7.52B,-0.33%,4381962,3.36B
+52,CE,Celanese Corporation,7.25B,-0.63%,361670,10.48B
+53,SSD,"Simpson Manufacturing Co., Inc.",6.97B,-2.37%,57577,2.23B
+54,UFPI,"UFP Industries, Inc.",6.86B,-2.82%,88496,6.71B
+55,WFG,West Fraser Timber Co. Ltd.,6.82B,-1.61%,60372,6.28B
+56,ESI,Element Solutions Inc,6.24B,-0.21%,305954,2.41B
+57,GGB,Gerdau S.A.,6.10B,-3.08%,4673503,11.92B
+58,TX,Ternium S.A.,5.90B,0.79%,79948,18.70B
+59,CMC,Commercial Metals Company,5.59B,-1.32%,168020,7.83B
+60,ALTM,Arcadium Lithium plc,5.52B,1.31%,21582328,900.60M
+61,KNF,Knife River Corporation,5.51B,-2.67%,360219,2.89B
+62,CLF,Cleveland-Cliffs Inc.,5.46B,-2.21%,10451428,19.97B
+63,BCPC,Balchem Corporation,5.18B,-0.34%,23658,942.38M
+64,NEU,NewMarket Corporation,5.13B,0.68%,17005,2.79B
+65,CBT,Cabot Corporation,4.64B,-1.12%,81611,3.99B
+66,FMC,FMC Corporation,4.59B,0.47%,888134,4.25B
+67,BCC,Boise Cascade Company,4.57B,-4.38%,95912,6.80B
+68,MP,MP Materials Corp.,3.99B,-1.28%,885486,184.07M
+69,HL,Hecla Mining Company,3.93B,3.04%,8972004,840.96M
+70,AVNT,Avient Corporation,3.81B,-0.78%,102519,3.21B
+71,SMG,The Scotts Miracle-Gro Company,3.80B,-2.25%,234964,3.56B
+72,SIM,"Grupo Simec, S.A.B. de C.V.",3.77B,-6.81%,1410,1.71B
+73,OR,Osisko Gold Royalties Ltd,3.69B,1.01%,212374,183.59M
+74,IAG,IAMGOLD Corporation,3.64B,3.59%,6875445,1.46B
+75,HBM,Hudbay Minerals Inc.,3.56B,1.05%,3582793,2.04B
+76,TGLS,Tecnoglass Inc.,3.51B,-3.25%,95965,845.21M
+77,BVN,Compañía de Minas Buenaventura S.A.A.,3.41B,1.31%,197328,1.11B
+78,TFPM,Triple Flag Precious Metals Corp.,3.38B,2.29%,78363,246.52M
+79,BTG,B2Gold Corp.,3.34B,1.98%,753615,1.91B
+80,MEOH,Methanex Corporation,3.25B,-1.95%,114155,3.72B
+81,FUL,H.B. Fuller Company,3.24B,-2.31%,6986,3.57B
+82,OLN,Olin Corporation,3.22B,-2.71%,333520,6.54B
+83,SXT,Sensient Technologies Corporation,3.20B,-1.90%,28730,1.53B
+84,WDFC,WD-40 Company,3.13B,-0.64%,39331,603.64M
+85,EQX,Equinox Gold Corp.,3.04B,4.55%,211778,1.24B
+86,ASH,Ashland Inc.,3.02B,-0.23%,132623,2.05B
+87,CDE,"Coeur Mining, Inc.",2.95B,5.73%,10465135,1.01B
+88,EGO,Eldorado Gold Corporation,2.94B,1.63%,568989,1.19B
+89,SSL,Sasol Limited,2.91B,0.76%,444772,15.07B
+90,USLM,"United States Lime & Minerals, Inc.",2.90B,-2.14%,47729,317.72M
+91,HUN,Huntsman Corporation,2.85B,-2.55%,739649,5.99B
+92,SLVM,Sylvamo Corporation,2.80B,-10.25%,171900,3.77B
+93,SBSW,Sibanye Stillwater Limited,2.77B,0.88%,4368591,5.93B
+94,HCC,"Warrior Met Coal, Inc.",2.77B,-1.48%,249066,1.59B
+95,IOSP,Innospec Inc.,2.76B,-1.09%,12112,1.87B
+96,CC,The Chemours Company,2.64B,-2.77%,584189,5.75B
+97,KWR,Quaker Chemical Corporation,2.47B,-0.19%,20075,1.86B
+98,AMR,"Alpha Metallurgical Resources, Inc.",2.40B,-0.67%,38568,3.30B
+99,NGD,New Gold Inc.,2.38B,1.00%,5076884,861.50M
+100,MTX,Minerals Technologies Inc.,2.36B,0.07%,48549,2.12B
+101,HWKN,"Hawkins, Inc.",2.32B,-1.25%,23781,952.13M
+102,ORLA,Orla Mining Ltd.,2.18B,2.57%,255554,314.10M
+103,SID,Companhia Siderúrgica Nacional,2.04B,-5.45%,931430,8.02B
+104,MTRN,Materion Corporation,2.04B,-2.34%,4316,1.67B
+105,CENX,Century Aluminum Company,1.97B,-2.62%,792512,2.10B
+106,SAND,Sandstorm Gold Ltd.,1.91B,0.16%,1955299,173.38M
+107,SSRM,SSR Mining Inc.,1.84B,1.60%,924137,1.10B
+108,BAK,Braskem S.A.,1.81B,-6.65%,691431,13.76B
+109,PRM,"Perimeter Solutions, Inc.",1.72B,-1.59%,131880,534.19M
+110,AG,First Majestic Silver Corp.,1.69B,5.35%,10446620,525.21M
+111,MAG,MAG Silver Corp.,1.67B,4.68%,19208,-
+112,SILV,SilverCrest Metals Inc.,1.66B,4.28%,628072,278.08M
+113,FSM,Fortuna Mining Corp.,1.64B,1.24%,7485228,1.03B
+114,NGVT,Ingevity Corporation,1.61B,-2.64%,32854,1.48B
+115,TROX,Tronox Holdings plc,1.53B,-2.51%,280814,3.08B
+116,WS,"Worthington Steel, Inc.",1.44B,-2.72%,59855,3.29B
+117,CGAU,Centerra Gold Inc.,1.40B,-0.45%,181928,1.25B
+118,SCL,Stepan Company,1.39B,-1.60%,11692,2.19B
+119,CSTM,Constellium SE,1.37B,-0.95%,185714,7.56B
+120,LOMA,Loma Negra Compañía Industrial Argentina Sociedad Anónima,1.35B,2.21%,111165,265.54M
+121,ERO,Ero Copper Corp.,1.35B,5.34%,447441,464.13M
+122,SGML,Sigma Lithium Corporation,1.25B,3.39%,108509,142.75M
+123,SKE,Skeena Resources Limited,1.20B,-0.54%,137841,-
+124,SA,Seabridge Gold Inc.,1.17B,1.29%,179114,-
+125,KALU,Kaiser Aluminum Corporation,1.14B,-2.70%,28361,2.98B
+126,KRO,"Kronos Worldwide, Inc.",1.06B,-2.32%,21027,1.86B
+127,NG,NovaGold Resources Inc.,1.05B,1.42%,919406,-
+128,EXK,Endeavour Silver Corp.,1.03B,6.36%,4470542,225.93M
+129,ECVT,Ecovyst Inc.,937.32M,-0.92%,106391,695.34M
+130,DRD,DRDGOLD Limited,925.25M,-2.79%,192172,341.81M
+131,IPX,IperionX Limited,877.02M,6.60%,27183,-
+132,ASTL,Algoma Steel Group Inc.,846.87M,-0.74%,136577,1.84B
+133,SXC,"SunCoke Energy, Inc.",838.04M,-0.75%,268091,1.94B
+134,UAN,"CVR Partners, LP",837.59M,-0.88%,2311,527.39M
+135,PPTA,Perpetua Resources Corp.,831.80M,0.76%,116673,-
+136,WLKP,Westlake Chemical Partners LP,828.60M,-0.19%,13038,1.14B
+137,OEC,Orion S.A.,820.20M,-0.78%,103118,1.91B
+138,ASIX,AdvanSix Inc.,791.79M,-2.23%,22052,1.57B
+139,GSM,Ferroglobe PLC,773.15M,0.12%,12594,1.65B
+140,NEXA,Nexa Resources S.A.,745.63M,1.62%,4869,2.66B
+141,IE,Ivanhoe Electric Inc.,737.19M,3.55%,544942,3.24M
+142,REX,REX American Resources Corporation,735.36M,-0.31%,25919,671.88M
+143,SVM,Silvercorp Metals Inc.,694.50M,7.76%,136028,266.46M
+144,ARMN,Aris Mining Corporation,679.71M,1.92%,283637,484.51M
+145,MTUS,Metallus Inc.,652.71M,-1.57%,42772,1.17B
+146,TGB,Taseko Mines Limited,640.79M,2.61%,2607892,439.68M
+147,TMC,TMC the metals company Inc.,633.97M,-1.40%,745123,-
+148,SLSR,Solaris Resources Inc.,633.62M,1.53%,14340,-
+149,LAC,Lithium Americas Corp.,631.94M,3.28%,2439625,-
+150,ODC,Oil-Dri Corporation of America,629.17M,-0.60%,9574,454.09M
+151,KOP,Koppers Holdings Inc.,609.08M,-2.05%,21201,2.13B
+152,VZLA,Vizsla Silver Corp.,607.28M,28.45%,20576,-
+153,LXU,"LSB Industries, Inc.",593.02M,-1.59%,73773,520.11M
+154,METC,"Ramaco Resources, Inc.",545.82M,2.16%,265502,698.13M
+155,VHI,"Valhi, Inc.",541.85M,-2.45%,193,2.08B
+156,METCB,"Ramaco Resources, Inc.",527.56M,-0.55%,3003,698.13M
+157,LVRO,Lavoro Limited,521.76M,-2.83%,6069,1.67B
+158,CMP,"Compass Minerals International, Inc.",490.16M,0.09%,391543,1.08B
+159,CPAC,Cementos Pacasmayo S.A.A.,484.93M,-3.00%,1698,527.80M
+160,CNL,Collective Mining Ltd.,481.13M,-7.05%,344,-
+161,CLW,Clearwater Paper Corporation,480.13M,-3.43%,167596,2.21B
+162,LZM,Lifezone Metals Limited,478.88M,-2.98%,12162,1.02M
+163,MATV,"Mativ Holdings, Inc.",472.45M,-4.35%,93483,1.97B
+164,RYAM,Rayonier Advanced Materials Inc.,462.73M,-2.52%,121203,1.63B
+165,CRML,Critical Metals Corp.,460.82M,-8.66%,170080,117.66K
+166,KBSX,FST Corp.,431.35M,-9.62%,7231,33.94M
+167,MERC,Mercer International Inc.,428.17M,-1.69%,74536,2.03B
+168,GPRE,Green Plains Inc.,419.77M,1.45%,877852,2.46B
+169,GEVO,"Gevo, Inc.",418.45M,3.43%,4842077,15.59M
+170,ASPI,ASP Isotopes Inc.,406.92M,-2.44%,817965,3.38M
+171,MUX,McEwen Mining Inc.,406.74M,3.99%,567109,199.63M
+172,NAK,Northern Dynasty Minerals Ltd.,390.92M,-3.71%,2390390,-
+173,LAR,Lithium Argentina AG,384.84M,6.24%,429092,-
+174,ZEUS,"Olympic Steel, Inc.",384.74M,-3.00%,15377,2.01B
+175,NFGC,New Found Gold Corp.,369.83M,1.34%,241606,-
+176,RDUS,"Radius Recycling, Inc.",362.36M,-1.60%,69654,2.72B
+177,BIOX,Bioceres Crop Solutions Corp.,335.32M,-4.50%,286485,407.77M
+178,MSB,Mesabi Trust,331.28M,-1.26%,12540,26.79M
+179,USAS,Americas Gold and Silver Corporation,323.54M,3.69%,261806,97.12M
+180,GAU,Galiano Gold Inc.,321.65M,2.00%,184462,166.79M
+181,DC,Dakota Gold Corp.,305.48M,-3.14%,226906,-
+182,IPI,"Intrepid Potash, Inc.",305.45M,-2.34%,32135,206.36M
+183,MTA,Metalla Royalty & Streaming Ltd.,298.24M,1.84%,48232,5.05M
+184,NMG,Nouveau Monde Graphite Inc.,298.00M,-1.22%,22592,-
+185,SLI,Standard Lithium Ltd.,267.35M,2.43%,376070,-
+186,IAUX,i-80 Gold Corp.,263.78M,4.14%,987445,52.94M
+187,HDSN,"Hudson Technologies, Inc.",253.34M,-1.67%,159564,247.33M
+188,IONR,ioneer Ltd,252.15M,-3.51%,731,-
+189,GROY,Gold Royalty Corp.,244.66M,1.76%,201308,7.76M
+190,WRN,Western Copper and Gold Corporation,217.54M,0.45%,46366,-
+191,FF,FutureFuel Corp.,213.13M,-1.62%,36923,273.84M
+192,UAMY,United States Antimony Corporation,209.83M,1.31%,3929825,10.22M
+193,EMX,EMX Royalty Corporation,204.66M,-0.08%,276757,26.82M
+194,TMQ,Trilogy Metals Inc.,201.37M,-0.40%,21402,-
+195,CMCL,Caledonia Mining Corporation Plc,198.68M,2.78%,12590,165.35M
+196,ODV,Osisko Development Corp.,197.62M,2.40%,52883,8.49M
+197,ITRG,Integra Resources Corp.,193.24M,-0.43%,159828,-
+198,IDR,"Idaho Strategic Resources, Inc.",191.87M,2.15%,59744,21.96M
+199,LWLG,"Lightwave Logic, Inc.",191.51M,-1.57%,274285,113.19K
+200,SMID,Smith-Midland Corporation,191.25M,-0.25%,1971,76.37M
+201,ASM,Avino Silver & Gold Mines Ltd.,190.48M,2.19%,727445,54.33M
+202,NEWP,New Pacific Metals Corp.,189.68M,4.39%,105036,-
+203,PLL,Piedmont Lithium Inc.,172.67M,0.37%,51640,46.98M
+204,TSE,Trinseo PLC,167.80M,-1.60%,76847,3.53B
+205,GLDG,GoldMining Inc.,162.05M,-0.35%,171201,-
+206,AVD,American Vanguard Corporation,155.60M,-1.99%,45859,553.84M
+207,USGO,U.S. GoldMining Inc.,149.34M,-8.27%,48870,-
+208,PLG,Platinum Group Metals Ltd.,136.44M,4.14%,186597,-
+209,VOXR,Vox Royalty Corp.,126.25M,1.43%,18213,11.15M
+210,LGO,Largo Inc.,124.13M,-3.57%,150543,144.82M
+211,GRO,Brazil Potash Corp.,123.64M,-7.86%,127213,-
+212,CTGO,"Contango Ore, Inc.",121.73M,1.27%,66282,-
+213,FRD,"Friedman Industries, Incorporated",119.89M,0.12%,2166,447.62M
+214,ORGN,"Origin Materials, Inc.",118.70M,-2.91%,471049,35.12M
+215,USAU,U.S. Gold Corp.,118.55M,1.43%,200631,-
+216,NB,NioCorp Developments Ltd.,115.87M,-5.17%,45547,-
+217,CMT,"Core Molding Technologies, Inc.",114.63M,-2.21%,23446,313.66M
+218,ACNT,Ascent Industries Co.,112.64M,-2.00%,53983,178.42M
+219,ALTO,"Alto Ingredients, Inc.",111.90M,-1.74%,104038,1.00B
+220,NTIC,Northern Technologies International Corporation,106.26M,-0.62%,1616,86.22M
+221,THM,International Tower Hill Mines Ltd.,99.10M,-1.45%,29601,-
+222,ABAT,American Battery Technology Company,96.98M,-4.92%,695173,545.46K
+223,HLP,Hongli Group Inc.,95.47M,-4.41%,353638,14.05M
+224,TRX,TRX Gold Corporation,92.14M,-0.03%,21210,44.28M
+225,ATLX,Atlas Lithium Corporation,90.49M,3.74%,123540,543.66K
+226,VGZ,Vista Gold Corp.,82.40M,1.36%,168419,-
+227,LODE,Comstock Inc.,77.28M,-1.61%,39761,1.86M
+228,FSI,"Flexible Solutions International, Inc.",76.23M,-1.29%,45102,38.49M
+229,NVA,Nova Minerals Limited,70.96M,2.50%,19356,-
+230,HYMC,Hycroft Mining Holding Corporation,70.18M,9.00%,191896,-
+231,FURY,Fury Gold Mines Limited,61.42M,-1.00%,62756,-
+232,XPL,Solitario Resources Corp.,59.03M,2.10%,43792,-
+233,WWR,"Westwater Resources, Inc.",57.62M,3.40%,25378,-
+234,LOOP,"Loop Industries, Inc.",52.14M,-0.45%,16302,126.00K
+235,AREC,American Resources Corporation,49.10M,0.11%,128894,399.96K
+236,LITM,Snow Lake Resources Ltd.,47.25M,3.08%,7614402,-
+237,GTI,Graphjet Technology,44.68M,-1.94%,556007,-
+238,GORO,Gold Resource Corporation,30.40M,1.20%,56357,73.90M
+239,ELBM,Electra Battery Materials Corporation,25.56M,4.71%,15129,-
+240,HUDI,"Huadi International Group Co., Ltd.",25.52M,5.73%,278698,74.27M
+241,NWGL,Nature Wood Group Limited,25.33M,7.75%,1536,21.71M
+242,AUST,Austin Gold Corp.,22.13M,6.22%,205545,-
+243,PZG,Paramount Gold Nevada Corp.,21.95M,-0.24%,137742,-
+244,INHD,Inno Holdings Inc.,20.69M,-3.30%,5686,885.50K
+245,FEAM,"5E Advanced Materials, Inc.",18.86M,-17.56%,137849,-
+246,ENFY,Enlightify Inc.,18.64M,1.59%,2800,90.81M
+247,JCTC,Jewett-Cameron Trading Company Ltd.,16.36M,-2.31%,1493,46.61M
+248,SEED,Origin Agritech Limited,16.34M,-5.02%,19692,16.16M
+249,CAPT,Captivision Inc.,13.94M,1.31%,862170,17.39M
+250,OMEX,"Odyssey Marine Exploration, Inc.",13.56M,0.26%,54557,799.14K
+251,ZKIN,"ZK International Group Co., Ltd.",11.41M,-1.34%,32950,108.20M
+252,NITO,"N2OFF, Inc.",11.18M,-3.99%,187114,175.31K
+253,FMST,Foremost Clean Energy Ltd.,9.77M,-7.93%,1981,-
+254,RETO,"ReTo Eco-Solutions, Inc.",8.35M,15.70%,394235,3.84M
+255,GURE,"Gulf Resources, Inc.",8.31M,3.33%,4598,12.80M
+256,BHIL,"Benson Hill, Inc.",7.40M,-5.12%,35755,466.73M
+257,BGLC,BioNexus Gene Lab Corp.,6.76M,-0.23%,33845,9.26M
+258,GRFX,Graphex Group Limited,6.18M,-1.15%,15705,30.02M
+259,BON,Bon Natural Life Limited,5.25M,-0.79%,5216,23.84M
+260,ITP,"IT Tech Packaging, Inc.",3.28M,0.84%,7239,79.16M
+261,SNES,"SenesTech, Inc.",3.13M,0.38%,506,1.65M
+262,CRKN,Crown Electrokinetics Corp.,2.31M,-5.63%,53896,13.46M
+263,FMTO,Femto Technologies Inc.,2.29M,5.56%,19946,754.77K
+264,CNEY,CN Energy Group. Inc.,2.01M,0.04%,205600,66.51M
